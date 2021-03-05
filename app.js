@@ -38,6 +38,6 @@ const presidents = [
 // console.log(dem2);
 
 //BONUS write a script to check if LBJ was a 2 term president. IF he was then alert("LBJ served two terms") else alert "LBJ was one and done"
-if (presidents.name === "Lyndon Johnson" && presidents.terms === 2) {
-  alert("LBJ served two terms");
-} else alert("LBJ was one and done");
+// if ((presidents.name = "Lyndon Johnson" || presidents.terms === 2)) {
+//   alert("LBJ served two terms");
+// } else alert("LBJ was one and done");
